@@ -10,9 +10,9 @@ at.geometry('1358x737')
 at.resizable(0, 0)
 
 # Setting Image path
-photo = PhotoImage(file = r"images/my_rock.png")
-photo1 = PhotoImage(file = r"images/my_paper.png")
-photo2 = PhotoImage(file = r"images/my_scissor.png")
+photo = PhotoImage(file = r"my_rock.png")
+photo1 = PhotoImage(file = r"my_paper.png")
+photo2 = PhotoImage(file = r"my_scissor.png")
 # photo3 = PhotoImage(file = r"c_rock.png")
 # photo4 = PhotoImage(file = r"c_paper.png")
 # photo5 = PhotoImage(file = r"c_scissor.png")
